@@ -207,9 +207,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/advanced-slot-machine/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/advanced-slot-machine/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/Sanjaykumarpandit108/Python-Slot-Machine-Advanced/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Sanjaykumarpandit108/Python-Slot-Machine-Advanced/discussions)
+
 
 ---
 
