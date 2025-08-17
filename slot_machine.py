@@ -12,9 +12,6 @@ Features:
 - Bonus features and jackpots
 - Save/load functionality for balance
 - Colorful terminal output (optional)
-
-Author: AI Assistant
-Version: 2.0
 """
 
 import random
